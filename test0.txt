@@ -1,0 +1,18 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 8CC6-971D
+
+ Directory of C:\Users\kishan.mansukhani\Desktop\Git Project 1
+
+10-10-2017  16:59    <DIR>          .
+10-10-2017  16:59    <DIR>          ..
+07-10-2017  15:12    <DIR>          GIT Project
+10-10-2017  16:59                 0 test0.txt
+09-10-2017  13:12                 0 test10.txt
+09-10-2017  13:14                 0 test12.txt
+09-10-2017  13:14                 0 test13.txt
+09-10-2017  13:16                52 test14.txt
+09-10-2017  13:15                 0 test15.txt
+10-10-2017  16:58               491 test8.txt
+09-10-2017  13:11                 0 test9.txt
+               8 File(s)            543 bytes
+               3 Dir(s)  164,966,510,592 bytes free
